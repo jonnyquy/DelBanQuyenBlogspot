@@ -1,0 +1,11 @@
+Truy Cập Website https://lelinhtinh.github.io/de4js/
+Vào Theme Blogspot Coppy đoạn code mã hoá 
+<script type = 'text/javascript' >
+//<![CDATA[
+Code
+//]]>
+</script>
+
+Sau Đó Auto Decode và chỉnh sửa lại giao diện
+Nguồn: https://www.youtube.com/watch?v=5OTbctS2Mzk
+Tiêu Đề: How to STOP redirect on Removing Copyright/Credit Link from Blogger Template/ HTML Sora Templates
